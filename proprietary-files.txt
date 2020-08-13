@@ -505,11 +505,6 @@ vendor/lib/libspcom.so
 vendor/lib64/libperipheral_client.so
 vendor/lib64/libspcom.so
 
-# Perf
-vendor/lib/libqti-util.so
-vendor/lib64/libqti-perfd-client.so
-vendor/lib64/libqti-util.so
-
 # Power-off alarm
 -product/app/PowerOffAlarm/PowerOffAlarm.apk
 -system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar
