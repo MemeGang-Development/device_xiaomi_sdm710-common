@@ -10,7 +10,6 @@ COMMON_PATH := device/xiaomi/sdm710-common
 
 # Apex
 DEXPREOPT_GENERATE_APEX_IMAGE := true
-OVERRIDE_TARGET_FLATTEN_APEX := true
 
 # Architecture
 TARGET_ARCH := arm64
